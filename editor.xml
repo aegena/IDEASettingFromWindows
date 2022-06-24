@@ -1,0 +1,81 @@
+<application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="problems" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Groovy.groovy.implicit.null.argument.hint" />
+        <option value="Groovy.groovy.parameters.hints" />
+        <option value="Groovy.groovy.variable.type.hints" />
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="kotlin.kotlin.call.chains.hints" />
+        <option value="kotlin.kotlin.lambdas.hints" />
+        <option value="kotlin.kotlin.ranges.hints" />
+        <option value="kotlin.kotlin.references.types.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <Groovy.groovy.parameters.hints>
+        <Settings>
+          <option name="showInferredParameterTypes" value="false" />
+          <option name="showTypeParameterList" value="false" />
+        </Settings>
+      </Groovy.groovy.parameters.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="implicitReceiversAndParams" value="false" />
+          <option name="returnExpressions" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
+    </settingsMapElement>
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
+</application>
